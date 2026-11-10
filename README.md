@@ -1,3 +1,18 @@
+# Deploying a Scalable ML Pipeline with FastAPI
+
+[![Python CI](https://github.com/danny814/Deploying-a-Scalable-ML-Pipeline-with-FastAPI/actions/workflows/manual.yml/badge.svg?branch=main)](https://github.com/danny814/Deploying-a-Scalable-ML-Pipeline-with-FastAPI/actions/workflows/manual.yml?query=branch%3Amain)
+
+## Continuous Integration
+
+- **Repository:** https://github.com/danny814/Deploying-a-Scalable-ML-Pipeline-with-FastAPI
+- **Workflow:** `.github/workflows/manual.yml` runs flake8 and pytest on every push to `main`/`master`.
+- **Passing Actions run:** https://github.com/danny814/Deploying-a-Scalable-ML-Pipeline-with-FastAPI/actions/runs/42774264700
+- **Commit verified by that run:** f4c4287e4b8ccece62669c680f0c50b803ff51fa
+- **All runs on `main` (latest at the top):** https://github.com/danny814/Deploying-a-Scalable-ML-Pipeline-with-FastAPI/actions/workflows/manual.yml?query=branch%3Amain
+- Screenshot of a passing build: `screenshots/continuous_integration.png`
+
+---
+
 Working in a command line environment is recommended for ease of use with git and dvc. If on Windows, WSL1 or 2 is recommended.
 
 # Environment Set up (pip or conda)
